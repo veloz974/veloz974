@@ -1,26 +1,35 @@
 # 👋 Hola, soy Gerardo Veloz
 
-🎯 QA Tester en transición al sector tecnológico, con formación en aseguramiento de calidad de software y enfoque estratégico derivado de mi experiencia en Administración.
+🧪 **QA Tester | Web, Mobile & API Testing**  
+Apasionado por asegurar la calidad del software mediante pruebas funcionales, análisis de comportamiento y detección de errores.
+
+🚀 **Portafolio:**  
+👉 https://quality-showcase-pro.lovable.app  
 
 ---
 
 ## 🚀 Sobre mí
 
-Actualmente me estoy desarrollando como **QA Tester**, con experiencia en pruebas de aplicaciones web y móviles. Mi enfoque está en garantizar la calidad del software mediante la detección oportuna de errores, el análisis de procesos y la mejora continua.
+Soy QA Tester con formación en aseguramiento de calidad de software y experiencia en pruebas de aplicaciones web, móviles y APIs.
 
-Mi transición al área de tecnología está respaldada por una **Maestría en Administración Estratégica**, lo que me permite aportar una visión analítica, estructurada y orientada a resultados dentro de los procesos de testing.
+Mi enfoque está en garantizar la calidad del producto mediante la detección oportuna de errores, análisis de procesos y mejora continua.
+
+Cuento con una **Maestría en Administración Estratégica**, lo que me permite aportar una visión analítica, estructurada y orientada a resultados dentro del testing.
+
+💡 **Puedes ver mis proyectos, evidencias y pruebas aquí:**  
+👉 https://quality-showcase-pro.lovable.app  
 
 ---
 
 ## 🧪 Experiencia en QA
 
-- Ejecución de **pruebas funcionales, de regresión y exploratorias**
-- Diseño y ejecución de **casos de prueba**
-- **Reporte y seguimiento de bugs en Jira**
-- Pruebas de **APIs con Postman**
-- Validación de datos con **SQL básico**
-- Testing en **aplicaciones web y móviles**
-- Uso de **DevTools** para análisis y depuración
+- Pruebas funcionales, de regresión y exploratorias  
+- Diseño y ejecución de casos de prueba  
+- Reporte y seguimiento de bugs en Jira  
+- Pruebas de APIs con Postman  
+- Validación de datos con SQL básico  
+- Testing en aplicaciones web y móviles  
+- Uso de DevTools para análisis y depuración  
 
 ---
 
@@ -38,46 +47,37 @@ Mi transición al área de tecnología está respaldada por una **Maestría en A
 ## 🧠 Habilidades
 
 **Técnicas:**
-- Pruebas de software
-- Testing API
-- Análisis de requisitos
-- Reporte de bugs
+- Testing de software  
+- API Testing  
+- Análisis de requerimientos  
+- Reporte de bugs  
 
 **Transversales:**
 - Pensamiento crítico  
 - Atención al detalle  
-- Planeación y organización  
 - Análisis de información  
 - Comunicación efectiva  
 - Trabajo en equipo  
 
 ---
 
-## 📈 Enfoque profesional
+## 📂 Proyectos
 
-Aplico principios de **Administración Estratégica** en el testing:
-
-- Análisis de procesos  
-- Mejora continua  
-- Toma de decisiones basada en datos  
-- Orientación a resultados  
-
-Esto me permite entender no solo el error, sino **su impacto en el negocio y en el usuario final**.
+🔎 Puedes revisar mis proyectos, casos de prueba y evidencia de testing en mi portafolio:  
+👉 https://quality-showcase-pro.lovable.app  
 
 ---
 
-## 🌱 Actualmente
+## 🎯 Objetivo profesional
 
-- Fortaleciendo habilidades en QA  
-- Aprendiendo más sobre automatización de pruebas  
-- Buscando oportunidades como **QA Tester**  
+Busco una oportunidad como **QA Tester / QA Engineer** donde pueda contribuir a la calidad del producto, aportar valor desde el testing y continuar desarrollando mis habilidades.
 
 ---
 
 ## 📫 Contacto
 
-- LinkedIn: (agrega aquí tu perfil)
-- Email: (opcional)
+- 🔗 LinkedIn: https://www.linkedin.com/in/gerardo-veloz-qa-engineer  
+- 📧 Email: gerardo.veloz.qa@gmail.com  
 
 ---
 
